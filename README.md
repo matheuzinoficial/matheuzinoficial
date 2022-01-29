@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @matheuzinoficial
+- 👀 I’m interested in build solutions for big problems
+- 🌱 I’m currently learning React
+- 📫 Follow me on Instagram @matheuzin
